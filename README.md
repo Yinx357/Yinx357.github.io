@@ -1,9 +1,13 @@
+---
+category: 
+tag: 
+---
 
 <img src="./docs/images/1131.png" width = "350" height = "500" alt="Firefly" align=right />
 
 <div align="center">
 
-# 流萤 / Firefly 
+# 流萤 / Firefly
 > 一款清新美观的 Astro 静态博客主题模板
 > 
 > ![Node.js >= 22](https://img.shields.io/badge/node.js-%3E%3D22-brightgreen) 
@@ -24,7 +28,6 @@
 [![爱发电赞助](https://img.shields.io/badge/爱发电-赞助作者-ff69b4.svg)](https://ifdian.net/a/cuteleaf)
 
 </div>
-
 
 ---
 📖 README：
@@ -231,7 +234,7 @@ comment: true    # 是否允许评论
 | `pnpm check`               | 检查代码中的错误                 |
 | `pnpm format`              | 使用Biome格式化您的代码                        |
 | `pnpm new-post <filename>` | 创建新文章                                   |
-| `pnpm astro ...`           | 执行 `astro add`, `astro check` 等指令    |
+| `pnpm astro …`           | 执行 `astro add`, `astro check` 等指令    |
 | `pnpm astro --help`        | 显示 Astro CLI 帮助                        |
 
 ## 🙏 致谢
@@ -286,7 +289,6 @@ comment: true    # 是否允许评论
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CuteLeaf/Firefly&type=Date)](https://star-history.com/#CuteLeaf/Firefly&Date)
-
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
