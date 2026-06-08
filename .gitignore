@@ -28,6 +28,9 @@ yarn.lock
 
 # ide
 .idea
+.trae
+.vscode
+
 *.iml
 .claude
 
