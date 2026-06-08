@@ -1,3 +1,7 @@
+---
+category: 
+tag: 
+---
 
 <img src="./docs/images/1131.png" width = "350" height = "500" alt="Firefly" align=right />
 
@@ -23,7 +27,6 @@
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/CuteLeaf/Firefly)
 [![Afdian Sponsor](https://img.shields.io/badge/Afdian-Sponsor%20Author-ff69b4.svg)](https://ifdian.net/a/cuteleaf)
 </div>
-
 
 ---
 📖 README:
@@ -82,7 +85,6 @@
 - [x] **Navbar Customization** - Logo, title, links fully customizable
 - [x] **Wallpaper Mode Switching** - Banner wallpaper, fullscreen wallpaper, fullscreen transparent wallpaper, solid background
 - [x] **Theme Color Customization** - 360° hue adjustment
-
 
 If you have useful features and optimizations, please submit a [Pull Request](https://github.com/CuteLeaf/Firefly/pulls)
 
@@ -190,7 +192,6 @@ src/
 │   └── coverImageConfig.ts   # Article cover image configuration
 ```
 
-
 ## ⚙️ Article Frontmatter
 
 ```yaml
@@ -229,7 +230,7 @@ All commands need to be executed in the project root directory:
 | `pnpm check`               | Check for errors in code                            |
 | `pnpm format`              | Format your code using Biome                        |
 | `pnpm new-post <filename>` | Create new article                                  |
-| `pnpm astro ...`           | Execute `astro add`, `astro check` and other commands |
+| `pnpm astro …`           | Execute `astro add`, `astro check` and other commands |
 | `pnpm astro --help`        | Display Astro CLI help                              |
 
 ## 🙏 Acknowledgments
@@ -284,7 +285,6 @@ Thanks to the following contributors for their contributions to the original pro
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CuteLeaf/Firefly&type=Date)](https://star-history.com/#CuteLeaf/Firefly&Date)
-
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
