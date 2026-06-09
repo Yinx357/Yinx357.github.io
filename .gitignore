@@ -39,4 +39,4 @@ Firefly-docs/
 
 cache/
 package/
-.obsidian/
+#.obsidian/
