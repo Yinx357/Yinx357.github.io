@@ -1,0 +1,21 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
+  "blue-topaz-theme@@scrollbar-style-option": "hover-scrollbars",
+  "blue-topaz-theme@@fancy-hr": "default-hr",
+  "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
+  "blue-topaz-theme@@left-ribbon-style": "hide-left-ribbon-retention-drawer",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@file-bg-shape-option": "file-shape-default",
+  "blue-topaz-theme@@bt-toggle-colorful-folder": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-four",
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-tab-liked",
+  "blue-topaz-theme@@toggle-table-transition": false,
+  "blue-topaz-theme@@show-border-table": true,
+  "blue-topaz-theme@@full-width-table": false,
+  "blue-topaz-theme@@table-style-options": "table-style-one",
+  "blue-topaz-theme@@table-format-options": "wrapped-table",
+  "blue-topaz-theme@@folder-note-dot": true,
+  "blue-topaz-theme@@folder-note-underline": false,
+  "blue-topaz-theme@@remove-first-folder-icon": false,
+  "blue-topaz-theme@@remove-arrow": true
+}
