@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d56a6f379a343403",
+        "id": "7a4fb0f9321d78e7",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e04129dcf6eb1a",
+            "id": "e02a89f7067d71ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4e04129dcf6eb1a",
+  "active": "e02a89f7067d71ca",
   "lastOpenFiles": [
+    "src/content/posts/Develop/Web/nvm-install-nodejs-guide.md",
     "_tmp_16912_914adee188aad74ea786aa5b1c6c86bc",
     "README.en.md",
     "README.md",
